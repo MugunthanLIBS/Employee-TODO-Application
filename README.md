@@ -10,7 +10,7 @@ A modern, responsive full-stack web application for managing employee records wi
 
 ## 🚀 Project Links
 
-- 📦 **GitHub Repository:** [https://github.com/yourusername/Employee-TODO-Application](https://github.com/MugunthanLIBS/Employee-TODO-Application.git)
+- 📦 **GitHub Repository:** [https://github.com/MugunthanLIBS/Employee-TODO-Application](https://github.com/MugunthanLIBS/Employee-TODO-Application.git)
 - 🚧 **Live Demo:** Not deployed yet
 
 ---
