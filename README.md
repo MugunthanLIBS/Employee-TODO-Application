@@ -92,8 +92,9 @@ npm start
 ## 📸 Application Screenshots
 
 | Feature | Preview |
-|-------|--------|
+|--------|---------|
 | Home Page | ![Home](screenshots/webhomepage.png) |
 | Edit Employee | ![Edit](screenshots/editmodel.png) |
-| Delete Confirmation | ![Delete](screenshots/deleteconfrimmodel.png) |
+| Delete Confirmation | ![Delete](screenshots/deleteconfirmmodel.png) |
 | Mobile Page | ![Mobile](screenshots/mobilehomepage.png) |
+
