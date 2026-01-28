@@ -95,6 +95,6 @@ npm start
 |--------|---------|
 | Home Page | ![Home](screenshots/webhomepage.png) |
 | Edit Employee | ![Edit](screenshots/editmodel.png) |
-| Delete Confirmation | ![Delete](screenshots/deleteconfirmmodel.png) |
+| Delete Confirmation | ![Delete](screenshots/deleteconfrimmodel.png) |
 | Mobile Page | ![Mobile](screenshots/mobilehomepage.png) |
 
