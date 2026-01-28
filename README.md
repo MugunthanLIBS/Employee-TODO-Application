@@ -88,7 +88,7 @@ npm install
 npm start
 
 # Frontend runs on http://localhost:5173
----
+```
 ## 📸 Application Screenshots
 
 | Feature | Preview |
