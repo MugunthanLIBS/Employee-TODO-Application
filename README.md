@@ -1,81 +1,56 @@
 # 🧑‍💼 Employee TODO Application
 
-A modern **Full Stack Employee Management Application** built with  
-**React 18 + Spring Boot 3 + MySQL**.
+A modern, responsive full-stack web application for managing employee records with complete CRUD operations.
 
 🔹 CRUD Operations  
 🔹 Real-time Search  
 🔹 Responsive UI  
 🔹 REST API Architecture
 
-## ✨ Features
+## 🚀 **Live Demo & Quick Links**  
+- **Frontend:** [Live Preview](http://localhost:5173)  
+- **Backend API:** [API Docs](http://localhost:8000/swagger-ui.html)  
+- **GitHub Repository:** [Employee-TODO-Application](https://github.com/yourusername/Employee-TODO-Application)  
 
-- Add, edit, delete employees
-- Real-time search
-- Responsive design
-- Confirmation modals
-- Form validation
+---
 
-## 🛠️ Tech Stack
+## ✨ **Key Features**
 
-### Frontend
-- React 18
-- Tailwind CSS
-- Axios
+### 🔧 **Core Functionality**
+- ✅ **Full CRUD Operations** – Add, view, edit, and delete employee records
+- ⚡ **Real-Time Search** – Instant filtering across employee data
+- 📱 **Fully Responsive Design** – Seamless experience across desktop, tablet & mobile
+- 🛡️ **Action Confirmations** – Modal-based delete/edit confirmations to prevent errors
+- 📋 **Form Validation** – Client-side validation for data integrity
 
-### Backend
-- Spring Boot 3
-- Spring Data JPA
-- MySQL
+### 🎯 **Advanced Capabilities**
+- 🔄 **RESTful API Architecture** – Clean, scalable backend design
+- 📊 **MySQL Integration** – Persistent and reliable data storage
+- 🎨 **Modern UI/UX** – Intuitive interface with Tailwind CSS
+- ⚙️ **Modular Components** – Reusable React components
+- 🔐 **Secure Data Handling** – Protected API endpoints
 
-## 📁 Project Structure
+---
 
+## 🏗️ **System Architecture**
+
+```plaintext
 Employee-TODO-Application/
+├── 📁 frontend/              # React 18 Single Page Application
+│   ├── 📂 src/components/   # Reusable UI Components
+│   ├── 📂 src/pages/        # Application Views
+│   ├── 📂 src/api/          # API Integration Layer
+│   └── 📂 public/           # Static Assets
 │
-├── frontend/                    # React Vite Frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Modal.jsx
-│   │   │   ├── ConfirmationModal.jsx
-│   │   │   └── ...
-│   │   ├── pages/
-│   │   │   └── Todo.jsx
-│   │   ├── api/
-│   │   │   └── Api.js
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── package.json
-│   ├── tailwind.config.js
-│   └── README.md (optional)
+├── 📁 backend/              # Spring Boot 3 REST API
+│   ├── 📂 Controller/       # REST Endpoints
+│   ├── 📂 Service/         # Business Logic Layer
+│   ├── 📂 Repository/      # Data Access Layer
+│   ├── 📂 Entity/          # JPA Entities
+│   └── 📂 resources/       # Configuration Files
 │
-├── backend/                     # Spring Boot Backend
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/com/Libs/TODO/
-│   │   │   │   ├── Controller/
-│   │   │   │   │   └── TodoController.java
-│   │   │   │   ├── Service/
-│   │   │   │   │   └── TodoService.java
-│   │   │   │   ├── Repository/
-│   │   │   │   │   └── TodoRepository.java
-│   │   │   │   ├── Entity/
-│   │   │   │   │   └── Todo.java
-│   │   │   │   └── TodoApplication.java
-│   │   │   └── resources/
-│   │   │       ├── application.properties
-│   │   │       └── ...
-│   │   └── test/
-│   └── pom.xml
-│
-├── screenshots/                 # Project screenshots
-│   ├── web-homepage.png
-│   ├── edit-modal.png
-│   ├── delete-confirm.png
-│   └── mobile-homepage.png
-|
-├── .gitignore
-└── README.md                    # MAIN README
+├── 📁 screenshots/          # Application Visuals
+└── 📄 README.md            # Project Documentation
 
 ## 🚀 Installation & Setup
 
@@ -114,7 +89,7 @@ npm start
 
 # Frontend runs on http://localhost:5173
 
-## 📸 Screenshots
+## 📸 Application Screenshots
 
 | Feature | Preview |
 |-------|--------|
