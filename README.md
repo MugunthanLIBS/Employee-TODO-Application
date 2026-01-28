@@ -91,22 +91,17 @@ npm start
 ```
 ## 📸 Application Screenshots
 
-<table>
-  <tr>
-    <td>
-      <img src="screenshots/webhomepage.png" width="300"/>
-    </td>
-    <td>
-      <img src="screenshots/editmodel.png" width="300"/>
-    </td>
-    <td>
-      <img src="screenshots/deleteconfirmmodel.png" width="300"/>
-    </td>
-    <td>
-      <img src="screenshots/mobilehomepage.png" width="300"/>
-    </td>
-  </tr>
-</table>
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <td><img src="screenshots/webhomepage.png" width="300"/></td>
+      <td><img src="screenshots/editmodel.png" width="300"/></td>
+      <td><img src="screenshots/deleteconfirmmodel.png" width="300"/></td>
+      <td><img src="screenshots/mobilehomepage.png" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
 
 
 
