@@ -91,17 +91,23 @@ npm start
 ```
 ## 📸 Application Screenshots
 
-<div style="display:flex; flex-direction:row; overflow-x:auto; white-space:nowrap; gap:16px; padding:10px;">
+<table>
+  <tr>
+    <td>
+      <img src="screenshots/webhomepage.png" width="300"/>
+    </td>
+    <td>
+      <img src="screenshots/editmodel.png" width="300"/>
+    </td>
+    <td>
+      <img src="screenshots/deleteconfirmmodel.png" width="300"/>
+    </td>
+    <td>
+      <img src="screenshots/mobilehomepage.png" width="300"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="screenshots/webhomepage.png" alt="Home Page" width="300"/>
-
-  <img src="screenshots/editmodel.png" alt="Edit Employee" width="300"/>
-
-  <img src="screenshots/deleteconfirmmodel.png" alt="Delete Confirmation" width="300"/>
-
-  <img src="screenshots/mobilehomepage.png" alt="Mobile View" width="300"/>
-
-</div>
 
 
 
