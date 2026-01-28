@@ -7,10 +7,11 @@ A modern, responsive full-stack web application for managing employee records wi
 🔹 Responsive UI  
 🔹 REST API Architecture
 
-## 🚀 **Live Demo & Quick Links**  
-- **Frontend:** [Live Preview](http://localhost:5173)  
-- **Backend API:** [API Docs](http://localhost:8000/swagger-ui.html)  
-- **GitHub Repository:** [Employee-TODO-Application](https://github.com/yourusername/Employee-TODO-Application)  
+
+## 🚀 Project Links
+
+- 📦 **GitHub Repository:** [https://github.com/yourusername/Employee-TODO-Application](https://github.com/MugunthanLIBS/Employee-TODO-Application.git)
+- 🚧 **Live Demo:** Not deployed yet
 
 ---
 
@@ -52,6 +53,23 @@ Employee-TODO-Application/
 ├── 📁 screenshots/          # Application Visuals
 └── 📄 README.md            # Project Documentation
 
+
+```
+## 📸 Application Screenshots
+
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <td><img src="screenshots/webhomepage.png" width="900"/></td>
+      <td><img src="screenshots/editmodel.png" width="900"/></td>
+      <td><img src="screenshots/deleteconfirmmodel.png" width="900"/></td>
+      <td><img src="screenshots/mobilehomepage.png" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 Installation & Setup
 
 ### **Prerequisites**
@@ -88,19 +106,6 @@ npm install
 npm start
 
 # Frontend runs on http://localhost:5173
-```
-## 📸 Application Screenshots
-
-<div style="overflow-x:auto;">
-  <table>
-    <tr>
-      <td><img src="screenshots/webhomepage.png" width="900"/></td>
-      <td><img src="screenshots/editmodel.png" width="900"/></td>
-      <td><img src="screenshots/deleteconfirmmodel.png" width="900"/></td>
-      <td><img src="screenshots/mobilehomepage.png" width="300"/></td>
-    </tr>
-  </table>
-</div>
 
 
 
