@@ -1,4 +1,4 @@
-# 🧑‍💼 Employee TODO Application
+# Employee TODO Application
 
 A modern, responsive full-stack web application for managing employee records with complete CRUD operations.
 
@@ -8,32 +8,32 @@ A modern, responsive full-stack web application for managing employee records wi
 🔹 REST API Architecture
 
 
-## 🚀 Project Links
+## Project Links
 
-- 📦 **GitHub Repository:** [https://github.com/MugunthanLIBS/Employee-TODO-Application](https://github.com/MugunthanLIBS/Employee-TODO-Application.git)
-- 🚧 **Live Demo:** Not deployed yet
-
----
-
-## ✨ **Key Features**
-
-### 🔧 **Core Functionality**
-- ✅ **Full CRUD Operations** – Add, view, edit, and delete employee records
-- ⚡ **Real-Time Search** – Instant filtering across employee data
-- 📱 **Fully Responsive Design** – Seamless experience across desktop, tablet & mobile
-- 🛡️ **Action Confirmations** – Modal-based delete/edit confirmations to prevent errors
-- 📋 **Form Validation** – Client-side validation for data integrity
-
-### 🎯 **Advanced Capabilities**
-- 🔄 **RESTful API Architecture** – Clean, scalable backend design
-- 📊 **MySQL Integration** – Persistent and reliable data storage
-- 🎨 **Modern UI/UX** – Intuitive interface with Tailwind CSS
-- ⚙️ **Modular Components** – Reusable React components
-- 🔐 **Secure Data Handling** – Protected API endpoints
+-  **GitHub Repository:** [https://github.com/MugunthanLIBS/Employee-TODO-Application](https://github.com/MugunthanLIBS/Employee-TODO-Application.git)
+-  **Live Demo:** Not deployed yet
 
 ---
 
-## 🏗️ **System Architecture**
+## **Key Features**
+
+### **Core Functionality**
+-  **Full CRUD Operations** – Add, view, edit, and delete employee records
+-  **Real-Time Search** – Instant filtering across employee data
+-  **Fully Responsive Design** – Seamless experience across desktop, tablet & mobile
+-  **Action Confirmations** – Modal-based delete/edit confirmations to prevent errors
+-  **Form Validation** – Client-side validation for data integrity
+
+### **Advanced Capabilities**
+-  **RESTful API Architecture** – Clean, scalable backend design
+-  **MySQL Integration** – Persistent and reliable data storage
+-  **Modern UI/UX** – Intuitive interface with Tailwind CSS
+-  **Modular Components** – Reusable React components
+-  **Secure Data Handling** – Protected API endpoints
+
+---
+
+## **System Architecture**
 
 ```plaintext
 Employee-TODO-Application/
@@ -55,7 +55,7 @@ Employee-TODO-Application/
 
 
 ```
-## 📸 Application Screenshots
+## Application Snapshots
 
 <div style="overflow-x:auto;">
   <table>
@@ -70,7 +70,7 @@ Employee-TODO-Application/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### **Prerequisites**
 - Node.js (v16 or higher)
