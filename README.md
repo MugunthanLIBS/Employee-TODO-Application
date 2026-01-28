@@ -80,11 +80,12 @@ Employee-TODO-Application/
 - Git
 
 ### **Step 1: Clone the Repository**
-
+```
 git clone https://github.com/yourusername/Employee-TODO-Application.git
 cd Employee-TODO-Application
-
+```
 ### **Step 2: Backend Setup**
+```
 cd backend
 
 # Update application.properties with your MySQL credentials
@@ -95,8 +96,9 @@ mvn clean install
 mvn spring-boot:run
 
 # Backend runs on http://localhost:8000
-
+```
 ### **Step 3: Frontend Setup**
+```
 cd frontend
 
 # Install dependencies
@@ -106,7 +108,7 @@ npm install
 npm start
 
 # Frontend runs on http://localhost:5173
-
+```
 
 
 
