@@ -91,10 +91,24 @@ npm start
 ```
 ## 📸 Application Screenshots
 
-| Feature | Preview |
-|--------|---------|
-| Home Page | ![Home](screenshots/webhomepage.png) |
-| Edit Employee | ![Edit](screenshots/editmodel.png) |
-| Delete Confirmation | ![Delete](screenshots/deleteconfrimmodel.png) |
-| Mobile Page | ![Mobile](screenshots/mobilehomepage.png) |
+<div style="display:flex; overflow-x:auto; gap:16px; padding:10px;">
+
+  <img src="screenshots/webhomepage.png"
+       alt="Web Home Page"
+       width="300"/>
+
+  <img src="screenshots/editmodel.png"
+       alt="Edit Employee"
+       width="300"/>
+
+  <img src="screenshots/deleteconfirmmodel.png"
+       alt="Delete Confirmation"
+       width="300"/>
+
+  <img src="screenshots/mobilehomepage.png"
+       alt="Mobile View"
+       width="300"/>
+
+</div>
+
 
