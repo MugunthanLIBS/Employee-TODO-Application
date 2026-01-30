@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE_URL = "http://localhost:8000";
+const API_BASE_URL = "https://todo-backend-production-76e9.up.railway.app";
 
 const Api = {
   getUsers: async () => {
